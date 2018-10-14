@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi Peeps!
+
+Ellen RIpley here! Having some fun. 
